@@ -26,7 +26,6 @@ Web3 is something I'm very interested in and what I aim to use my knowledge and 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a SECRET PROJECT with Shadies Studios  
   
 
 - 🌱 I’m currently learning and applying NextJS, NodeJS, Express, Prisma, Etc.
