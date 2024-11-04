@@ -17,7 +17,7 @@
 ### Glad to see you here!  
 While I'm currently an Infrastructure Solutions Architect(Server, network, cloud, virtualization, etc) for almost 10 years now, I still have this itch to dive into my passion for coding which is why I'm re-learning how to code again and now I'm a newbie frontend developer from the Philippines. 
 
-Web3 is something I'm very interested in and what I aim to use my knowledge and skills on. Currently building with a team on SOLANA network.  
+Web3 is something I'm very interested in and what I aim to use my knowledge and skills on
   
 
 <br/>  
@@ -29,7 +29,7 @@ Web3 is something I'm very interested in and what I aim to use my knowledge and 
 - 🔭 I’m currently working on a SECRET PROJECT with Shadies Studios  
   
 
-- 🌱 I’m currently learning and applying NextJS and also integrating Web3 technologies  
+- 🌱 I’m currently learning and applying NextJS, NodeJS, Express, Prisma, Etc.
   
 
 - ⚡ Fun fact: I started re-learning how to code by building fun little discord bots for NFT Projects and my own discord server  
