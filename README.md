@@ -17,7 +17,6 @@
 ### Glad to see you here!  
 While I'm currently an Infrastructure Solutions Architect(Server, network, cloud, virtualization, etc) for almost 10 years now, I still have this itch to dive into my passion for coding which is why I'm re-learning how to code again and now I'm a newbie frontend developer from the Philippines. 
 
-Web3 is something I'm very interested in and what I aim to use my knowledge and skills on
   
 
 <br/>  
